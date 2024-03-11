@@ -1,4 +1,4 @@
-O desafio proposto teria que simular uma conta bancária onde teria de ter os seguintes requisitos:
+## O desafio proposto teria que simular uma conta bancária onde teria de ter os seguintes requisitos:
 
 Criar um cabeçalho inicial com os dados do cliente (Nome, Tipo da Conta e Saldo);
 Criar um menu que descreve as operações;
